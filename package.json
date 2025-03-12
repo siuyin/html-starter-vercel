@@ -1,5 +1,5 @@
 {
   "private": true,
-  "dependencies": {
-  }
+  "dependencies": {},
+  "type": "module"
 }
